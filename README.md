@@ -18,6 +18,7 @@ repository for capstone design
 
 ### ABS (Anti-lock braking system)
 * https://en.wikipedia.org/wiki/Anti-lock_braking_system
+* [video](https://youtu.be/ru4JIZ-x8yo)
 
 
 
