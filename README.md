@@ -38,6 +38,7 @@ repository for capstone design
 
 ### Autonomous car
 * https://en.wikipedia.org/wiki/Autonomous_car
+* https://www.dspace.com/shared/data/pdf/2014/30_33_Auto.pdf
 
 
 ## What's next? 
