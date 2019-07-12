@@ -7,6 +7,8 @@ repository for capstone design
 ### The SW life cycle and the V model
 
 ### AUTOSAR
+* https://www.autosar.org
+* classic vs. adaptive
 
 ### Automotive SPICE 
 
