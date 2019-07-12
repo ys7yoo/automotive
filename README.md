@@ -35,6 +35,7 @@ repository for capstone design
 * https://en.wikipedia.org/wiki/Advanced_driver-assistance_systems
 * https://en.wikipedia.org/wiki/Mobileye
 * https://en.wikipedia.org/wiki/Tesla_Autopilot
+* http://www.ti.com/applications/automotive/adas/overview.html
 
 ### Autonomous car
 * https://en.wikipedia.org/wiki/Autonomous_car
