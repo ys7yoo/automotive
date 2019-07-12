@@ -8,7 +8,7 @@ repository for capstone design
 
 ### AUTOSAR (AUTomotive Open System ARchitecture)
 * https://www.autosar.org
-* classic vs. adaptive
+* classic vs. adaptive platform
 
 ### Automotive SPICE 
 
