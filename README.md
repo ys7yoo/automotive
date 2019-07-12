@@ -6,7 +6,7 @@ repository for capstone design
 
 ### The SW life cycle and the V model
 
-### AUTOSAR
+### AUTOSAR (AUTomotive Open System ARchitecture)
 * https://www.autosar.org
 * classic vs. adaptive
 
