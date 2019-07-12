@@ -16,7 +16,7 @@ repository for capstone design
 
 ## Examples
 
-### ABS (Anti-lock_braking_system)
+### ABS (Anti-lock braking system)
 * https://en.wikipedia.org/wiki/Anti-lock_braking_system
 
 
