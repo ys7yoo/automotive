@@ -20,9 +20,13 @@ repository for capstone design
 * https://en.wikipedia.org/wiki/Anti-lock_braking_system
 * [video](https://youtu.be/ru4JIZ-x8yo)
 
-
 ### Airbag
 * https://en.wikipedia.org/wiki/Airbag
 
+### ACC (Adaptive Cruise Control)
+* https://en.wikipedia.org/wiki/Adaptive_cruise_control
+
 ### ADAS (Advanced Driver-Assistance System)
 * https://en.wikipedia.org/wiki/Advanced_driver-assistance_systems
+* https://en.wikipedia.org/wiki/Mobileye
+* https://en.wikipedia.org/wiki/Tesla_Autopilot
