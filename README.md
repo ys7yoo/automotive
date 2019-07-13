@@ -12,7 +12,7 @@ repository for capstone design
 
 ### Automotive SPICE 
 
-### ISO 26262
+### Functional Safety and ISO 26262
 
 ### Automotive SW Testing
 
