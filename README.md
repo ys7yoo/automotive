@@ -42,4 +42,7 @@ repository for capstone design
 * https://www.dspace.com/shared/data/pdf/2014/30_33_Auto.pdf
 
 
-## What's next? 
+## What's next?
+* https://www.microsoft.com/en-us/research/publication/an-exploration-of-speech-based-productivity-support-in-the-car/
+* https://dl.acm.org/citation.cfm?id=3300635
+* [How to Work in the Car of the Future?](https://dl.acm.org/citation.cfm?id=3300284)
