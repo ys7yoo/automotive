@@ -43,6 +43,6 @@ repository for capstone design
 
 
 ## What's next?
-* https://www.microsoft.com/en-us/research/publication/an-exploration-of-speech-based-productivity-support-in-the-car/
+* [Speech-Based Productivity Support in the Car](https://www.microsoft.com/en-us/research/publication/an-exploration-of-speech-based-productivity-support-in-the-car/)
 * [Using Time and Space Efficiently in Driverless Cars](https://dl.acm.org/citation.cfm?id=3300635)
 * [How to Work in the Car of the Future?](https://dl.acm.org/citation.cfm?id=3300284)
