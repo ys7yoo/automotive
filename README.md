@@ -11,6 +11,8 @@ repository for capstone design
 * classic vs. adaptive platform
 
 ### Automotive SPICE 
+* Automotive SPICE 3.1 ([English](http://www.automotivespice.com/fileadmin/software-download/AutomotiveSPICE_PAM_31.pdf), [Korean](http://www.automotivespice.com/fileadmin/software-download/AutomotiveSPICE_PAM_31_Korean.pdf))
+
 
 ### Functional Safety and ISO 26262
 
