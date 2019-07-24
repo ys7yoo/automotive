@@ -27,8 +27,8 @@
 | :-------------: |-------------| 
 | Description | |
 |ASIL | |
-|Pre-condition | |
-|Post-condition | |
+|Pre-condition |  `vehicle mode` / `app mode` |
+|Post-condition |  `vehicle mode` / `app mode` |
 |Criticality | |
 |Urgency | |
 |Constraints | |
