@@ -20,4 +20,20 @@
 
 ### Software requirements specification (17-11)
 
+
+* Template
+| Item        | Description           | 
+|:-------------:|-------------| 
+| Description | |
+|ASIL | |
+|Pre-condition | |
+|Post-condition | |
+|Criticality | |
+|Urgency | |
+|Constraints | |
+|Planned Release | |
+|Verification criteria | |
+|Stakeholder Requirement | |
+
+
 ### Verification criteria (17-50)
