@@ -6,15 +6,24 @@ repository for capstone design
 
 ### The SW life cycle and the V model
 
-### AUTOSAR (AUTomotive Open System ARchitecture)
-* https://www.autosar.org
-* classic vs. adaptive platform
 
 ### Automotive SPICE 
 * Automotive SPICE 3.1 ([English](http://www.automotivespice.com/fileadmin/software-download/AutomotiveSPICE_PAM_31.pdf), [Korean](http://www.automotivespice.com/fileadmin/software-download/AutomotiveSPICE_PAM_31_Korean.pdf))
 
 
 ### Functional Safety and ISO 26262
+
+
+### AUTOSAR (AUTomotive Open System ARchitecture)
+* https://www.autosar.org
+* classic vs. adaptive platform
+* key documents to read (version 4.3.1)
+
+| title (link)        | ID           |
+| ------------- |:-------------:|
+| [Virtual Functional Bus](https://www.autosar.org/fileadmin/user_upload/standards/classic/4-3/AUTOSAR_EXP_VFB.pdf) | 056  |
+| [Layered Software Architecture](https://www.autosar.org/fileadmin/user_upload/standards/classic/4-3/AUTOSAR_EXP_LayeredSoftwareArchitecture.pdf)      | 053     |
+
 
 ### Automotive SW Testing
 
