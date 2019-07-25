@@ -1,21 +1,21 @@
 repository for capstone design
 
-## Topics
+# Topics
 
-### Introduction
+## Introduction
 
-### The SW life cycle and the V model
+## The SW life cycle and the V model
 
 
-### Automotive SPICE 
+## Automotive SPICE 
 * Automotive SPICE 3.1 ([English](http://www.automotivespice.com/fileadmin/software-download/AutomotiveSPICE_PAM_31.pdf), [Korean](http://www.automotivespice.com/fileadmin/software-download/AutomotiveSPICE_PAM_31_Korean.pdf))
 
 
-### Functional Safety and ISO 26262
+## Functional Safety and ISO 26262
 
 
-### AUTOSAR (AUTomotive Open System ARchitecture)
- ![layered SW architecture](layer.png)
+## AUTOSAR (AUTomotive Open System ARchitecture)
+ ![layered SW architecture](doc/AUTOSAR_431_layer.png)
  * https://www.autosar.org
  * classic vs. adaptive platform
  * key documents to read (version 4.3.1)
@@ -34,36 +34,36 @@ repository for capstone design
 
  ![relationship](doc/AUTOSAR_431/relationship.png)
 
-### Automotive SW Testing
+## Automotive SW Testing
 
-## Examples
-### PID controller
+# Examples
+## PID controller
 * https://en.wikipedia.org/wiki/PID_controller
 
 
-### ABS (Anti-lock braking system)
+## ABS (Anti-lock braking system)
 * https://en.wikipedia.org/wiki/Anti-lock_braking_system
 * [video](https://youtu.be/ru4JIZ-x8yo)
 
-### Airbag
+## Airbag
 * https://en.wikipedia.org/wiki/Airbag
 
-### ACC (Adaptive Cruise Control)
+## ACC (Adaptive Cruise Control)
 * https://en.wikipedia.org/wiki/Adaptive_cruise_control
 
-### ADAS (Advanced Driver-Assistance System)
+## ADAS (Advanced Driver-Assistance System)
 * https://en.wikipedia.org/wiki/Advanced_driver-assistance_systems
 * https://en.wikipedia.org/wiki/Mobileye
 * https://en.wikipedia.org/wiki/Tesla_Autopilot
 * http://www.ti.com/applications/automotive/adas/overview.html
 
-### Autonomous car
+## Autonomous car
 * https://en.wikipedia.org/wiki/Autonomous_car
 * https://www.naverlabs.com/storyDetail/16
 * https://www.dspace.com/shared/data/pdf/2014/30_33_Auto.pdf
 
 
-## What's next?
+# What's next?
 * [Speech-Based Productivity Support in the Car](https://www.microsoft.com/en-us/research/publication/an-exploration-of-speech-based-productivity-support-in-the-car/)
 * [Using Time and Space Efficiently in Driverless Cars](https://dl.acm.org/citation.cfm?id=3300635)
 * [How to Work in the Car of the Future?](https://dl.acm.org/citation.cfm?id=3300284)
