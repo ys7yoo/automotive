@@ -15,9 +15,10 @@ repository for capstone design
 
 
 ### AUTOSAR (AUTomotive Open System ARchitecture)
-* https://www.autosar.org
-* classic vs. adaptive platform
-* key documents to read (version 4.3.1)
+ ![layered SW architecture](layer.png)
+ * https://www.autosar.org
+ * classic vs. adaptive platform
+ * key documents to read (version 4.3.1)
 
 | title (link)        | ID           |
 | ------------- |:-------------:|
@@ -29,8 +30,9 @@ repository for capstone design
 | [Main Requirements](https://www.autosar.org/fileadmin/user_upload/standards/foundation/1-3/AUTOSAR_RS_Main.pdf) | 054| 
 | [Generic Structure Template](https://www.autosar.org/fileadmin/user_upload/standards/classic/4-3/AUTOSAR_TPS_GenericStructureTemplate.pdf) | 202 |
 | [Software Component Template](https://www.autosar.org/fileadmin/user_upload/standards/classic/4-3/AUTOSAR_TPS_SoftwareComponentTemplate.pdf) | 062| 
+| [Specification of RTE Software](https://www.autosar.org/fileadmin/user_upload/standards/classic/4-3/AUTOSAR_SWS_RTE.pdf) | 084 |
 
-![relationship](doc/AUTOSAR_431/relationship.png)
+ ![relationship](doc/AUTOSAR_431/relationship.png)
 
 ### Automotive SW Testing
 
