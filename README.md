@@ -15,7 +15,7 @@ repository for capstone design
 
 
 ## AUTOSAR (AUTomotive Open System ARchitecture)
- ![layered SW architecture](doc/AUTOSAR_431_layer.png)
+ ![layered SW architecture](doc/AUTOSAR_431/layer.png)
  * https://www.autosar.org
  * classic vs. adaptive platform
  * key documents to read (version 4.3.1)
