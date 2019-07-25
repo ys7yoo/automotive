@@ -18,6 +18,6 @@
 | [Main Requirements](https://www.autosar.org/fileadmin/user_upload/standards/foundation/1-3/AUTOSAR_RS_Main.pdf) | 054| 
 | [Generic Structure Template](https://www.autosar.org/fileadmin/user_upload/standards/classic/4-3/AUTOSAR_TPS_GenericStructureTemplate.pdf) | 202 |
 | [Software Component Template](https://www.autosar.org/fileadmin/user_upload/standards/classic/4-3/AUTOSAR_TPS_SoftwareComponentTemplate.pdf) | 062|
-| [Specification of RTE](https://www.autosar.org/fileadmin/user_upload/standards/classic/4-3/AUTOSAR_SWS_RTE.pdf) | 084 |
+| [Specification of RTE Software](https://www.autosar.org/fileadmin/user_upload/standards/classic/4-3/AUTOSAR_SWS_RTE.pdf) | 084 |
 
 ![relationship](relationship.png)
