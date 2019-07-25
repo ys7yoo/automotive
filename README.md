@@ -41,7 +41,7 @@ repository for capstone design
 * https://en.wikipedia.org/wiki/PID_controller
 
 
-## ABS (Anti-lock braking system)
+## ABS (Anti-lock Braking System)
 * https://en.wikipedia.org/wiki/Anti-lock_braking_system
 * [video](https://youtu.be/ru4JIZ-x8yo)
 
